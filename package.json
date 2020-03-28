@@ -1,0 +1,19 @@
+{
+  "name": "register-model-1",
+  "version": "1.0.0",
+  "description": "Modelo de Cadastro em NodeJS utilizando APIs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betovawn1/node-register-model-1.git"
+  },
+  "author": "Sergio Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betovawn1/node-register-model-1/issues"
+  },
+  "homepage": "https://github.com/betovawn1/node-register-model-1#readme"
+}
